@@ -1,5 +1,6 @@
-zoom :  451-018-7890,
-password :546568
+zoom :  451-018-7890,,,
+password :546568,,,,
+
 
 
 https://sites.google.com/view/fdp-gitam-hyd-2020/home
@@ -7,3 +8,8 @@ https://sites.google.com/view/fdp-gitam-hyd-2020/home
 
 
 https://sites.google.com/gitam.edu/gitamfdpapril2020/home - Venu
+
+Password 1
+zoom 2
+zoom 33
+password 44
